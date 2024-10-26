@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T21:47:41 EDT" name="Suite" finished-at="2024-10-25T21:48:45 EDT" duration-ms="64252">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T21:47:41 EDT" name="Salesforce_Tests" finished-at="2024-10-25T21:48:45 EDT" duration-ms="64252">
+      <class name="Salesforce_TestNG.SalesForce_Login_Tests">
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:47:41 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:47:44 EDT" duration-ms="2737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC1()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:47:44 EDT" name="TC1" finished-at="2024-10-25T21:47:50 EDT" duration-ms="6748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:47:50 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:47:51 EDT" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:47:51 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:47:53 EDT" duration-ms="2057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC2()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:47:53 EDT" name="TC2" finished-at="2024-10-25T21:48:01 EDT" duration-ms="8283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:01 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:48:02 EDT" duration-ms="436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:02 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:48:04 EDT" duration-ms="1939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC3()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:04 EDT" name="TC3" finished-at="2024-10-25T21:48:27 EDT" duration-ms="23434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:27 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:48:28 EDT" duration-ms="455" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:28 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:48:30 EDT" duration-ms="2101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC4A()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:30 EDT" name="TC4A" finished-at="2024-10-25T21:48:35 EDT" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4A -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:35 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:48:35 EDT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+        <test-method is-config="true" signature="setUpBeforeMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:35 EDT" name="setUpBeforeMethod" finished-at="2024-10-25T21:48:37 EDT" duration-ms="2066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeMethod -->
+        <test-method signature="TC4B()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:37 EDT" name="TC4B" finished-at="2024-10-25T21:48:44 EDT" duration-ms="7167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC4B -->
+        <test-method is-config="true" signature="tearDownAfterMethod()[pri:0, instance:Salesforce_TestNG.SalesForce_Login_Tests@2c5529ab]" started-at="2024-10-25T21:48:44 EDT" name="tearDownAfterMethod" finished-at="2024-10-25T21:48:45 EDT" duration-ms="406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterMethod -->
+      </class> <!-- Salesforce_TestNG.SalesForce_Login_Tests -->
+    </test> <!-- Salesforce_Tests -->
+  </suite> <!-- Suite -->
+</testng-results>

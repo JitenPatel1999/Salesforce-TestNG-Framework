@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="UtilityPackage.Salesforce_Listener"></listener>
+</listeners>
+  <test thread-count="5" name="Salesforce_Tests">
+    <classes>
+      <class name="Salesforce_TestNG.SalesForce_Login_Tests"/>
+      <class name="Salesforce_TestNG.User_Dropdown_Tests"/>
+      <class name="Salesforce_TestNG.Create_Account_Tests"/>
+      <class name="Salesforce_TestNG.Oppurtunities_Tests"/>
+      <class name="Salesforce_TestNG.Leads_Tests"/>
+      <class name="Salesforce_TestNG.Contacts_Tests"/>
+      <class name="Salesforce_TestNG.Random_Scenarios_Tests"/>
+    </classes>
+  </test> <!-- Salesforce_Tests -->
+</suite> <!-- Suite -->
